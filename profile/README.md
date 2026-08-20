@@ -18,8 +18,9 @@ starts over from a list instead of a relationship.
 
 ## What Janix is
 
-Janix Event Suite brings registration, ticketing, programming, marketing and CRM
-into one platform. The audience data stays with the organization that produced it.
+Janix Event Suite brings registration, ticketing, programming, marketing, CRM and
+audience intelligence into one platform. The audience data stays with the
+organization that produced it.
 
 **Your second event should know what your first event learned.**
 
@@ -68,12 +69,21 @@ system.
 - Full CSV export at every tier
 - Enrichment through Apollo, Exa and Apify on Studio and above
 
-## Marketing and analytics
+## Marketing
 
 - Campaign building and sending, with real open, click and bounce data
 - The audience count before a send, computed by the same builder as the send itself
-- Revenue attribution per campaign, in tickets and in dollars
-- Year-over-year reporting, with a confidence level on every reported number
+- You approve every send
+
+## Audience intelligence
+
+- Revenue attribution per campaign, in tickets and in dollars, rather than in clicks
+- Meta conversion tracking that runs through the organization's own ad account
+- Engagement by segment, and sales and attendance analytics by event and tier
+- Grant-ready demographic reporting, with the bucketing and the small-cell
+  suppression that funders expect
+- Year-over-year comparison, with a confidence level on every reported number, so
+  you know what to trust
 
 ## Who it is for
 
