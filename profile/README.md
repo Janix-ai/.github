@@ -1,8 +1,10 @@
 # Janix
 
-**The event and audience platform for conferences and festivals.**
+**The event and audience platform for organizations that run recurring
+conferences, festivals and annual meetings.**
 
-Run your event. Build your audience.
+Software and services to run a conference or festival, built by experienced
+event producers.
 
 ---
 
@@ -18,9 +20,10 @@ starts over from a list instead of a relationship.
 
 ## What Janix is
 
-Janix Event Suite brings registration, ticketing, programming, marketing, CRM and
-audience intelligence into one platform. The audience data stays with the
-organization that produced it.
+Janix Event Suite runs registration and ticketing, the program, sponsors and
+exhibitors, check-in and badges, and email campaigns in one system, and keeps
+every attendee on one audience record that the organization owns after the event
+ends.
 
 **Your second event should know what your first event learned.**
 
@@ -29,28 +32,32 @@ organization that produced it.
 Conferences call it registration. Festivals call it ticketing. It is the same
 system.
 
-- Pass-based registration and ticketing, with day limits and event limits enforced
-- Per-tier pricing windows, early-bird activation, and rollover when a tier sells out
+- Full-conference and one-day registration, add-ons and single tickets in one cart
+- Timed pricing windows, early-bird activation, and rollover when a tier sells out
+- Member and non-member rates verified against a roster
 - Sliding-scale and pay-what-you-can, with a floor enforced on the server
 - Holdbacks, comps and promo codes, plus numbered code batches
-- Payments run through the organization's own Stripe account, so the organization
-  is the merchant of record and holds its own money
+- Group registration with a badge for each person
+- Payments run through Stripe Connect into the organization's own Stripe account,
+  so the organization is the merchant of record and holds its own money
 
 ## Speaker and program management
 
-- Multi-track, multi-venue programs published to a public schedule grid
-- A call for proposals with submission windows and custom questions
+- Multi-track, multi-venue programs published to a public schedule grid, with
+  conflict detection
+- A call for papers with submission windows and custom questions
 - Scoring from 1 to 5, with accept, reject and waitlist, and the average and the
   spread on every submission
 - Speaker management with CSV import
 - A speaker portal where speakers publish their own profiles
 
-## Sponsor and vendor management
+## Sponsors and exhibitors
 
+- Exhibit halls and booths priced and sold
+- Sponsor tiers with ordered benefits and a public sponsor wall
 - One pipeline for sponsors and one for vendors, from first contact to signed
-- The vendor pipeline carries RFP-sent and quoting stages
-- A sponsor self-service portal with badge allocation, assignment, claim and
-  revoke, so sponsors manage their own names instead of sending them to you by email
+- A sponsor portal with badge allocation, assignment, claim and revoke, so
+  sponsors manage their own names instead of sending them to you by email
 
 ## Check-in and on-site
 
@@ -65,9 +72,10 @@ system.
 - Every registration and every purchase becomes a contact, with no import
 - Contacts belong to the organization, not to the event, so they accumulate across
   every event the organization runs
-- Segment targeting across 13 segment types
-- Full CSV export at every tier
-- Enrichment through Apollo, Exa and Apify on Studio and above
+- Segments from purchase history, tags, personas, geography and program, counted
+  before you send (Portfolio and Enterprise)
+- Full CSV export on every plan
+- Contact enrichment on Portfolio and Enterprise
 
 ## Marketing
 
@@ -75,28 +83,32 @@ system.
 - The audience count before a send, computed by the same builder as the send itself
 - You approve every send
 
-## Audience intelligence
+## Reporting
 
 - Revenue attribution per campaign, in tickets and in dollars, rather than in clicks
 - Meta conversion tracking that runs through the organization's own ad account
 - Engagement by segment, and sales and attendance analytics by event and tier
-- Grant-ready demographic reporting, with the bucketing and the small-cell
-  suppression that funders expect
 - Year-over-year comparison, with a confidence level on every reported number, so
-  you know what to trust
+  you know what to trust (Portfolio and Enterprise)
 
 ## Who it is for
 
-Conferences, festivals, professional associations, university programs and
-enterprise event teams. Organizations whose audience matters long after the doors
-close.
+Associations and professional bodies, companies and brands, festival and cultural
+producers, universities and institutions, and large festivals and conferences.
+Organizations whose audience matters long after the doors close.
 
-## Products
+## Plans
 
-| Product | Price | For |
+| Plan | Price | For |
 |---|---|---|
-| **Janix Studio** | $1,000/month plus 3% of ticket sales | Running an event or a season |
-| **Janix Enterprise** | Starting at $24,000/year | Recurring programs across teams |
+| **Meeting** | From $24,000 a year; from $18,000 for nonprofits | One annual meeting, with every other event in the year included |
+| **Portfolio** | Quoted on the events you run | Meeting, plus attendee networking, custom conference website templates, the audience CRM, segments and reporting across a year of events |
+| **Enterprise** | Quoted on the organization | Recurring programs, with implementation, migration and training |
+
+One annual licence. No percentage of ticket sales, no fee for each registrant, no
+implementation fee, and no cap on registrations or events. Every client signs a
+Master Services Agreement and an annual licence agreement; the licence is
+invoiced, and there is no self-serve purchase.
 
 Full detail at [janix.ai/pricing](https://janix.ai/pricing/).
 
@@ -113,10 +125,12 @@ and five as Chief Innovation Officer, and co-founded SXSW Eco.
 ## More
 
 [The platform](https://janix.ai/platform/) ·
+[Pricing](https://janix.ai/pricing/) ·
 [For conferences](https://janix.ai/conferences/) ·
 [For festivals](https://janix.ai/festivals/) ·
 [Enterprise](https://janix.ai/enterprise/) ·
-[About](https://janix.ai/about/)
+[About](https://janix.ai/about/) ·
+[llms.txt](https://janix.ai/llms.txt)
 
 ## Open source
 
