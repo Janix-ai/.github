@@ -132,12 +132,9 @@ and five as Chief Innovation Officer, and co-founded SXSW Eco.
 [About](https://janix.ai/about/) ·
 [llms.txt](https://janix.ai/llms.txt)
 
-## Open source
+## Code
 
-Most of our work is in private repositories.
-[mcp-validator](https://github.com/Janix-ai/mcp-validator) is public: a test suite
-for validating MCP server implementations against the open Model Context Protocol
-specification.
+Our work is in private repositories.
 
 ---
 
