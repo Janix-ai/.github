@@ -106,7 +106,7 @@ Organizations whose audience matters long after the doors close.
 | Plan | Price | For |
 |---|---|---|
 | **Janix Event** | From $2,950 | One event, one time, priced by registrations |
-| **Janix Series** | From $9,000 a year | The yearly plan: the first program included, programs added through the year, event site templates on your own domain, one audience record and reporting with trends across years |
+| **Janix Series** | From $9,000 a year | The yearly plan: the first three programs included, programs added through the year, event site templates on your own domain, one audience record and reporting with trends across years |
 | **Janix Portfolio** | From $30,000 a year | Unlimited programs, email campaigns, Janix Expo Meetings and attendee networking on the flagship program, Janix Marketing, and a custom, fully branded conference website |
 | **Janix Enterprise** | Priced on your organization | SSO and enterprise controls, roles and permissions, sub-organizations and migration |
 
