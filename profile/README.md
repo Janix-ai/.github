@@ -21,7 +21,7 @@ starts over from a list instead of a relationship.
 ## What Janix is
 
 Janix Event Suite runs registration and ticketing, the program, sponsors and
-exhibitors, check-in and badges, and email campaigns in one system, and keeps
+exhibitors, check-in and badges in one system, and keeps
 every attendee on one audience record that the organization owns after the event
 ends.
 
@@ -53,7 +53,8 @@ system.
 
 ## Sponsors and exhibitors
 
-- Exhibit halls and booths priced and sold
+- Booth sales, the exhibitor portal and checkout to the organization's own
+  account, and lead retrieval on exhibitors' own phones, with Janix Expo
 - Sponsor tiers with ordered benefits and a public sponsor wall
 - One pipeline for sponsors and one for vendors, from first contact to signed
 - A sponsor portal with badge allocation, assignment, claim and revoke, so
@@ -73,23 +74,26 @@ system.
 - Contacts belong to the organization, not to the event, so they accumulate across
   every event the organization runs
 - Segments from purchase history, tags, personas, geography and program, counted
-  before you send (Portfolio and Enterprise)
+  before you send (Janix Portfolio and Enterprise)
 - Full CSV export on every plan
-- Contact enrichment on Portfolio and Enterprise
+- Contact enrichment on Janix Portfolio and Enterprise
 
 ## Marketing
 
-- Campaign building and sending, with real open, click and bounce data
+- Email campaigns to your audience, on Janix Portfolio and Enterprise, with real
+  open, click and bounce data
 - The audience count before a send, computed by the same builder as the send itself
 - You approve every send
+- Janix Marketing: personas built from your own audience, a version of each email
+  for each one, and the lift in registrations measured against a control group
 
 ## Reporting
 
 - Revenue attribution per campaign, in tickets and in dollars, rather than in clicks
 - Meta conversion tracking that runs through the organization's own ad account
 - Engagement by segment, and sales and attendance analytics by event and tier
-- Year-over-year comparison, with a confidence level on every reported number, so
-  you know what to trust (Portfolio and Enterprise)
+- Reporting with trends across years, with a confidence level on every reported
+  number, so you know what to trust (Janix Series and up)
 
 ## Who it is for
 
@@ -101,14 +105,22 @@ Organizations whose audience matters long after the doors close.
 
 | Plan | Price | For |
 |---|---|---|
-| **Meeting** | From $24,000 a year; from $18,000 for nonprofits | One annual meeting, with every other event in the year included |
-| **Portfolio** | Quoted on the events you run | Meeting, plus attendee networking, custom conference website templates, the audience CRM, segments and reporting across a year of events |
-| **Enterprise** | Quoted on the organization | Recurring programs, with implementation, migration and training |
+| **Janix Event** | From $2,950 | One event, one time, priced by registrations |
+| **Janix Series** | From $9,000 a year | The yearly plan: the first program included, programs added through the year, event site templates on your own domain, one audience record and reporting with trends across years |
+| **Janix Portfolio** | From $30,000 a year | Unlimited programs, email campaigns, Janix Expo Meetings and attendee networking on the flagship program, Janix Marketing, and a custom, fully branded conference website |
+| **Janix Enterprise** | Priced on your organization | SSO and enterprise controls, roles and permissions, sub-organizations and migration |
 
-One annual licence. No percentage of ticket sales, no fee for each registrant, no
-implementation fee, and no cap on registrations or events. Every client signs a
-Master Services Agreement and an annual licence agreement; the licence is
-invoiced, and there is no self-serve purchase.
+| Add-on | Price | For |
+|---|---|---|
+| **Janix Expo** | From $2,500 an expo event | The exhibitor floor: booth sales, lead retrieval and one-on-one meetings with attendees |
+| **Janix Marketing** | From $9,000 a year | Grow attendance from the audience you already have |
+
+The Janix Event price counts toward Janix Series within 12 months. No percentage
+of ticket, booth or exhibitor sales, no fee for each registrant, check-in or
+ticket, no implementation fee and no overage. Janix Event is a license for a
+single event; the other plans are annual licenses. Every client signs a Master
+Services Agreement and a license agreement; the license is invoiced, and there is
+no self-serve purchase.
 
 Full detail at [janix.ai/pricing](https://janix.ai/pricing/).
 
